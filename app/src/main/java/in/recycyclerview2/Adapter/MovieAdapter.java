@@ -57,6 +57,8 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.MyViewHOlder
                 ShowPopupMenu(v);
             }
         });
+
+
     }
 
 
